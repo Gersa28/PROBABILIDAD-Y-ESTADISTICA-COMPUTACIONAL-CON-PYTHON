@@ -63,20 +63,20 @@
 </h1>
 <table style="border-collapse: collapse;">
   <tr>
-    <td style="border: none; padding: 8px; text-align: left;"><strong>🐍 Python</strong></td>
-    <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Algoritmos de Ordenamiento</strong></td>
+    <td style="border: none; padding: 8px; text-align: left;"><strong>🐍 Programación dinámica</strong></td>
+    <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Programas estocásticos</strong></td>
   </tr>
   <tr>
-    <td style="border: none; padding: 8px; text-align: left;"><strong>🐍 Agoritmos de Búsqueda</strong></td>
+    <td style="border: none; padding: 8px; text-align: left;"><strong>🐍 Simulaciones de Montecarlo</strong></td>
     <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Data Science</strong></td>
   </tr>
   <tr>
     <td style="border: none; padding: 8px; text-align: left;"><strong>⚙ Computer Science</strong></td>
-    <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Ambientes Virtuales</strong></td>
+    <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Probabilidad</strong></td>
   </tr>
   <tr>
     <td style="border: none; padding: 8px; text-align: left;"><strong>🐍 Vs Code</strong></td>
-    <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Vs Code</strong></td>
+    <td style="border: none; padding: 12px; text-align: left;"><strong>🐍 Estadística</strong></td>
   </tr>
 </table>
 
