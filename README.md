@@ -8,8 +8,7 @@
   <tr>
     <td style="border: none; padding: 8px; text-align: left;"><strong>Contacto:</strong> Germán Salina</td>
     <td style="border: none; padding: 12px; text-align: left;">
-      <img src="imgs/linkedin.svg" alt="LinkedIn:">
-      <a href="https://www.linkedin.com/in/german-salina-bioingeniero-despachante-de-aduanas/">
+      <img src="imgs/linkedin.svg" alt="LinkedIn:"><a href="https://www.linkedin.com/in/german-salina-bioingeniero-despachante-de-aduanas/">
        Bioingeniero Germán Salina
       </a>
     </td>
