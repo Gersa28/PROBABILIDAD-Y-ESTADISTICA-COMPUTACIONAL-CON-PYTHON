@@ -95,7 +95,6 @@
 <h1>
 📜 Resumen
 </h1>
-<br>
 
 **El curso "Estadística Computacional con Python" se enfoca en el uso efectivo de la programación dinámica y estocástica para análisis estadísticos. Comienza explorando los conceptos fundamentales de la programación dinámica, resaltando su utilidad en la resolución de problemas complejos mediante la descomposición en subproblemas más simples. La programación dinámica se aplica para optimizar algoritmos y mejorar la eficiencia computacional de las soluciones.**
 
