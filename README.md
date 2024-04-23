@@ -143,7 +143,7 @@
     - [Teorema del Límite Central](https://www.notion.so/Probabilidad-y-Estad-stica-Computacional-con-Python-8b346dee397041d79e75983f6a9ad978?pvs=21)
 - [Datos Experimentales](https://www.notion.so/Probabilidad-y-Estad-stica-Computacional-con-Python-8b346dee397041d79e75983f6a9ad978?pvs=21)
     - [¿Cómo trabajar con datos experimentales?](https://www.notion.so/Probabilidad-y-Estad-stica-Computacional-con-Python-8b346dee397041d79e75983f6a9ad978?pvs=21)
-    - [Regresión Lineal](https://www.notion.so/Probabilidad-y-Estad-stica-Computacional-con-Python-8b346dee397041d79e75983f6a9ad978?pvs=21)
+    - [Regresión Lineal](https://www.notion.so/german-salina/Probabilidad-y-Estad-stica-Computacional-con-Python-8b346dee397041d79e75983f6a9ad978#38cac3eb8a1b464aa5645ae5764da886)
 
 <br>
 <h1>
