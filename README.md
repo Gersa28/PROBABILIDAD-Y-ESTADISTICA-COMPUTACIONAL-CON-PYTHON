@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td style="border: none; padding: 8px; text-align: left;"><strong>Cel:</strong> +54 9 3434599358</td>
-    <td style="border: none; padding: 12px; text-align: left;"><strong>Scripts del Curso:</strong> Repositorio del Curso</td>
+    <td style="border: none; padding: 12px; text-align: left;"><strong>Guía del Proyecto:</strong> Teoría y Tutorial</td>
   </tr>
 </table>
 
